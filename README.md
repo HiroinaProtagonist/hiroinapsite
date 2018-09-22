@@ -1,5 +1,5 @@
 # hiroinapsite
-Personal website
+This is a personal/professional website.
 
 It has some deficiencies:
 CarbonType font on the index page was not rendering correctly in Firefox.
