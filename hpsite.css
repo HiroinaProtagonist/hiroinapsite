@@ -44,13 +44,24 @@ html {
 }
 
 body {
+    /*
     min-height: 768px;
     height: auto !important;
     height: 768px;
+    */
     
     min-width: 1024px;
-    width: auto !important;
+    /*width: auto !important;*/
     width:1024px;
+}
+
+p, blockquote {
+    font-size: .8em;
+}
+
+#paraHead{
+    font-size: 1.1em;
+    font-weight: bold;
 }
 
 #leftmain {
@@ -64,9 +75,9 @@ body {
     font-style: normal;
     font-weight: 500;
     float: left;
-    padding-top: 1em;
-    padding-left: 3em;
-    width: 20em;
+    padding-top: 0em;
+    padding-left: .9em;
+    width: 26em;
 }
 
 #heading {
@@ -99,7 +110,7 @@ body {
     font-weight: 500;
     float: left;
     padding-top: 1em;
-    padding-left: 3em;
+    padding-left: 2.9em;
 }
 
 #rightmain {
